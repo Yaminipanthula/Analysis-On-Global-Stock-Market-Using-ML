@@ -4,12 +4,12 @@ Global Stock Market Analysis using Machine Learning
 This project applies various Machine Learning algorithms to analyze and predict global stock market performance.
 It involves data preprocessing, exploratory data analysis (EDA), model building, and performance comparison to determine the best-fit models for forecasting stock market trends.
 
-Project Overview
+PROJECT OVERVIEW  
 Dataset: Daily trading records from multiple global stock exchanges.
 Target Variable: PortfolioOpen (value of portfolio at start of trading day).
 Features: Stock indices (NIFTY50, S&P 500, FTSE100, Hang Seng), commodity prices (Gold, Brent), cryptocurrency (BTC/INR), bond yields, and currency exchange rates (USD/INR, GBP/INR).
 
-Objective:
+OBJECTIVE:
 Clean and preprocess raw stock data
 Explore correlations and insights using EDA
 Apply different ML models to predict PortfolioOpen
